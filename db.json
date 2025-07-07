@@ -1,0 +1,14 @@
+{
+  "toDos": [
+    {
+      "id": 1,
+      "description": "Balkonu yıka",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "description": "Çamaşırları as",
+      "isCompleted": true
+    }
+  ]
+}

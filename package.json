@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "test": "ava"
+  },
+  "ava": {
+    "files": [
+      "test/**/*.test.ts"
+    ],
+    "extensions": [
+      "ts"
+    ],
+    "require": [
+      "ts-node/register"
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "ava": "^6.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "ulid": "^3.0.0"
+  }
+}
